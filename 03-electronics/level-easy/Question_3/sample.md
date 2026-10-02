@@ -1,0 +1,3 @@
+In this circuit we simply attach 3 led to 3 pins of arduino also Attach a LDR to pin 10 and grounded it through a 2k ohm resistor so I can adjust the high and low value of the LDR. 
+
+The code contains a basic Delayed Loop covering by the if statemet that constantly checks for the LDR Value each loop. We could also use Interrupt for LDR so it will Turn off no matter wheter the loop is being executed or not.
