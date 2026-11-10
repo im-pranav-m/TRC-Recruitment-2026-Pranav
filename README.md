@@ -11,7 +11,7 @@
 </table>   
 
 ## About me
-Hi! I'm Pranav, Interested in Robotics , Coding , and all Tech related stuff. Mostly worked on solo projects till now.  
+Hi! I'm Pranav, Interested in Robotics, Coding, and all Tech related stuff. Mostly worked on solo projects till now.  
 Finally, this is an opportunity to connect with like minded people :)
 
 ## Task Status

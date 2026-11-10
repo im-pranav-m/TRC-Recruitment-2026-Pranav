@@ -6,4 +6,4 @@ This exercise taught me how to use Rebase in git.
 
 The issue i faced was minor configuration error "vi" (probably i meant `vim`) which was due to my mistake in configuration and replaced it to the `nano`
 
-And using the interactive Rebase , I Squash the commit timeline 
+And using the interactive Rebase, I Squash the commit timeline 
