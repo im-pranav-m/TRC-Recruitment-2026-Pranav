@@ -1,6 +1,6 @@
 # TRC Recruitement
 
-## Informations 
+## Details
 <table>
   <tbody>
     <tr><td><strong>Name</strong></td><td>Pranav M Praveen</td></tr>
