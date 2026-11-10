@@ -2,6 +2,10 @@
 ## Fix typographic mistake in the last commit 
 
 ## What this exercise taught me
-In this I learnt to know how to use --amend in git which helps me to combine the current commit edit with the previous commit
+In this exercise, I learnt how to use the `--amend` flag in Git.  
+Said flag helps me to merge the working directory  with the last commit.
 
-git commit --amend (--no-edit or -m "  " )
+The described operation can be performed using the following command:
+```sh
+git commit --amend [--no-edit|-m <message>]
+```
