@@ -1,0 +1,29 @@
+name: Spellcheck on Markdown
+on: push
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Spellcheck
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Spellcheck
+        uses: rojopolis/spellcheck-github-actions@v0
+        with:
+          output_file: spellcheck-output.txt
+          task_name: Markdown
+          config_path: .github/spellcheck/config.yaml
+
+      - uses: actions/upload-artifact@v7
+        if: '!cancelled()'
+        with:
+          path: spellcheck-output.txt
+          archive: false
