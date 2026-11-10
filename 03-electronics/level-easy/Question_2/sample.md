@@ -1,1 +1,1 @@
-We used basic if Else statement to print the Statement once it reached the Threshold value 
+We used basic If-Else statement to print the statement once it reached the threshold value

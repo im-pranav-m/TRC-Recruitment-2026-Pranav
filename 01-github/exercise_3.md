@@ -2,9 +2,11 @@
 ## commit-one-file-staged
 
 ## What this exercise taught me
-This exercise taught me how to push only one file.
-For this I unstaged file B or We can easily use the command
+This exercise taught me how to push a single file.
 
-git commit "File" -m "Message"
+For this I unstaged file B
 
-
+Additionally, we can also simply use the following command:
+```sh
+git commit <file> -m <message>
+```
