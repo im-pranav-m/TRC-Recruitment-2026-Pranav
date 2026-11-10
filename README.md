@@ -6,7 +6,7 @@
     <tr><td><strong>Name</strong></td><td>Pranav M Praveen</td></tr>
     <tr><td><strong>Number</strong></td><td>+919447158634</td></tr>
     <tr><td><strong>Branch &amp; Semester</strong></td><td>Robotics and AI: Semester 1</td></tr>
-    <tr><td><strong>Email</strong></td><td>pranavclarvo@gmail.com</td></tr>
+    <tr><td><strong>Email</strong></td><td><a href="mailto:pranavclarvo@gmail.com">pranavclarvo@gmail.com</a></td></tr>
   </tbody>
 </table>   
 
